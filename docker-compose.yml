@@ -1,0 +1,6 @@
+version: "3"
+services:
+  react-app:
+    image: ananth0909/dev-app:latest
+    ports:
+      - "80:80"
